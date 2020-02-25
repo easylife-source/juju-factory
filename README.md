@@ -6,7 +6,7 @@ This project is still in alpha status,it might crash or broke the app.This Progr
 
 -----------------------------------------------------------
 This Program Windows Only!
-macOS Version is coming soon!
+macOS Version is in avalible in alpha state,[click here to test it out](https://github.com/easylife-source/juju-factory-mac)!
 -----------------------------------------------------------
 ### Support or Contact
 
