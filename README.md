@@ -2,7 +2,7 @@
 The 10 * 16 "JUJU" Creator!
 
 ### Reminder:
-This project is still in alpha status,it might crash or broke the app.This Program is an open-source product,everyone can edit or build our code!
+This project is still in beta status,it might crash or broke the app.This Program is an open-source product,everyone can edit or build our code!
 
 -----------------------------------------------------------
 This Program Windows Only!
