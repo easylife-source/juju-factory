@@ -1,7 +1,8 @@
-# Welcome To Ju Ju Factory
+Welcome To Ju Ju Factory
+
 The 10 * 16 "JUJU" Creator!
 
-### Reminder:
+*Reminder:
 This project is still in beta status,it might crash or broke the app.This Program is an open-source product,everyone can edit or build our code!
 
 Windows Version is avalible in beta state,[click here to test it out](https://github.com/easylife-source/juju-factory)!
