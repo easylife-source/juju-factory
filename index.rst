@@ -1,4 +1,6 @@
-Welcome To Ju Ju Factory
+##################
+H1: Welcome To Ju Ju Factory
+##################
 
 The 10 * 16 "JUJU" Creator!
 
