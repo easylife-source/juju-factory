@@ -5,8 +5,10 @@ The 10 * 16 "JUJU" Creator!
 This project is still in beta status,it might crash or broke the app.This Program is an open-source product,everyone can edit or build our code!
 
 -----------------------------------------------------------
-This Program Windows Only!
+This Version Of JUJU Builder is for Windows Only!
 macOS Version is in avalible in alpha state,[click here to test it out](https://github.com/easylife-source/juju-factory-mac)!
+Linux Bash Version is avalible in alpha status,[click here to test it out](https://github.com/easylife-source/juju-factory-bash)!
+
 -----------------------------------------------------------
 ### Support or Contact
 
